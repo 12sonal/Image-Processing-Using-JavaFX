@@ -22,6 +22,7 @@ public class Main {
         Shape shape3 = new Circle(Radius);
         System.out.println("Area of Circle is : "  +shape3.calculateArea());
         System.out.println("Perimeter of Circle is: : "  +shape3.calculatePerimeter());
+        System.out.println("Printing static variable: " + Circle.color);
 
         Shape shape4 = new Square(height,width);
         System.out.println("Area of Square is : "  +shape4.calculateArea());
