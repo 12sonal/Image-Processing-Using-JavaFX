@@ -1,0 +1,22 @@
+{"BookShelf":
+  {"Book":
+  [{
+    "numberOfPages": 348,
+    "publishedYear": 2020,
+    "title": "Book 1",
+    "authors": [{"title": "Author 1"}]
+  },
+  {
+    "numberOfPages": 267,
+    "publishedYear": 2021,
+    "title": "Book 2",
+    "authors": [{"title": "Author 2"}]
+  },
+  {
+    "numberOfPages": 571,
+    "publishedYear": 2022,
+    "title": "Book 3",
+    "authors": [{"title": "Author 3"}]
+  }
+  ]}
+}
