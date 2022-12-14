@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<BookShelf>
+    <Book>
+        <title>Book 1</title>
+        <publishedYear>2020</publishedYear>
+        <numberOfPages>348</numberOfPages>
+        <authors>
+            <title>Author 1</title>
+        </authors>
+    </Book>
+
+    <Book>
+        <title>Book 2</title>
+        <publishedYear>2021</publishedYear>
+        <numberOfPages>267</numberOfPages>
+        <authors>
+            <title>Author 2</title>
+        </authors>
+    </Book>
+
+    <Book>
+        <title>Book 3</title>
+        <publishedYear>2022</publishedYear>
+        <numberOfPages>571</numberOfPages>
+        <authors>
+            <title>Author 3</title>
+        </authors>
+    </Book>
+</BookShelf>
