@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="bcel-6.7.0">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/bcel-6.7.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
